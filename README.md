@@ -1,4 +1,7 @@
 # MSP001: How to host a NodeJS website on Azure
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Session Abstract
 
@@ -76,16 +79,21 @@ One (1) of the following:
 * [Azure Fundamentals](https://aka.ms/msp001/learn-fun)
 * [AppServices](https://aka.ms/msp001/learn-app)
 
-## Qualified Student Partner Presenters
+## Qualified Student Partner Presenters ✨
 
-To be in that list, please open an issue with proof that you completed the required learning and you will be added to that list.
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- prettier-ignore -->
-<!-- markdownlint-disable MD033 -->
-
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
-<tr>
-    <td align="center"><a href="https://developer.microsoft.com/advocates/maxime-rouiller?WT.mc_id=msp001-github-marouill">
-        <img src="https://avatars0.githubusercontent.com/u/209384?s=460&v=4" width="100px;" alt="Maxime Rouiller"/><br />
-        <sub><b>Maxime Rouiller</b></sub><br />📢 📖</td>
-</tr></table>
+  <tr>
+    <td align="center"><a href="https://blog.maximerouiller.com"><img src="https://avatars1.githubusercontent.com/u/209384?v=4" width="100px;" alt=""/><br /><sub><b>Maxime Rouiller</b></sub></a><br /><a href="#content-MaximRouiller" title="Content">🖋</a> <a href="#example-MaximRouiller" title="Examples">💡</a> <a href="#video-MaximRouiller" title="Videos">📹</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
