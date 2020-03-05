@@ -36,7 +36,7 @@ This training repository is divided in to the following sections:
 |-------------------|---------------------------|
 | 16 slides - 13 minutes, | 3 demos - 25 minutes
 
- [Full-length video can be viewed here](./videos/msp001.mp4).
+ [Full-length video can be viewed here](https://mspttt.azureedge.net/content/msp001/videos/msp001.mp4).
 
 ## Slides
 
