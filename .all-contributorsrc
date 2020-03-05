@@ -1,5 +1,5 @@
 {
-  "projectName": "MSP001",
+  "projectName": "msp001",
   "projectOwner": "MaximRouiller",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -20,7 +20,17 @@
         "example",
         "video"
       ]
+    },
+    {
+      "login": "saifeemustafaq",
+      "name": "saifeemustafaq",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15520369?v=4",
+      "profile": "https://github.com/saifeemustafaq",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
