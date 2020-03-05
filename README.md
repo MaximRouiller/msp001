@@ -1,6 +1,6 @@
 # MSP001: How to host a NodeJS website on Azure
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Session Abstract
@@ -89,6 +89,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://blog.maximerouiller.com"><img src="https://avatars1.githubusercontent.com/u/209384?v=4" width="100px;" alt=""/><br /><sub><b>Maxime Rouiller</b></sub></a><br /><a href="#content-MaximRouiller" title="Content">🖋</a> <a href="#example-MaximRouiller" title="Examples">💡</a> <a href="#video-MaximRouiller" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/saifeemustafaq"><img src="https://avatars2.githubusercontent.com/u/15520369?v=4" width="100px;" alt=""/><br /><sub><b>saifeemustafaq</b></sub></a><br /><a href="#talk-saifeemustafaq" title="Talks">📢</a></td>
   </tr>
 </table>
 
