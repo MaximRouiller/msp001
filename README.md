@@ -69,7 +69,16 @@ Detailed explanations of each demonstration associated with this presentation ca
 |  [2 - NodeJS API](./demos/README.md#demo-2-nodejs-api)       | 7:50    | [Download video](https://mspttt.azureedge.net/content/msp001/videos/msp001-Demo2.mp4)
 |  [3 - Pushing to Azure](./demos/README.md#demo-3---pushing-to-azure) | 13:55   | [Download video](https://mspttt.azureedge.net/content/msp001/videos/msp001-Demo3.mp4)
 
-## Trained Presenters
+## Required Learning before presenting
+
+One (1) of the following:
+
+* [Azure Fundamentals](https://aka.ms/msp001/learn-fun)
+* [AppServices](https://aka.ms/msp001/learn-app)
+
+## Qualified Student Partner Presenters
+
+To be in that list, please open an issue with proof that you completed the required learning and you will be added to that list.
 
 <!-- prettier-ignore -->
 <!-- markdownlint-disable MD033 -->
