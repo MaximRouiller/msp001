@@ -24,8 +24,8 @@ app.get('/', (req, res) => res.send('Hello world'));
 app.listen(port, () => console.log('Application started'));
 ```
 
+* In the terminal window, run the command `node app.js` to run the application .
 * Open up the browser and navigate to http://localhost:3000 to view our hello world show up on screen.
-
 
 ## Demo 2 NodeJS API
 
