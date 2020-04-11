@@ -9,7 +9,7 @@ We are in a cloud world. There are so many options on how to do deploy something
 
 After this session, you will be able to create an API, create the Azure resource's, and automatically deploy that application to work with teammates.
 
-## Table of Content
+## Table of Contents
 
 | Resources         | Links                            |
 |-------------------|----------------------------------|
@@ -23,7 +23,7 @@ Welcome!
 
 We're glad you are here and look forward to your delivery of this amazing content.
 
-As a new(or veteran) presenter, we'll give you all the necessary content to ensure that you give a session of quality! This guide will provide you a full run-through of the presentation. This presentation is a creation of the Cloud Advocates team.
+As a new (or veteran) presenter, we'll give you all the necessary content to ensure that you give a session of quality! This guide will provide you a full run-through of the presentation. This presentation is a creation of the Cloud Advocates team.
 
 Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions & code.
 
