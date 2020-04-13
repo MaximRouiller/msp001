@@ -101,6 +101,13 @@ Let's fix that.
 * Ensure that `AZURE_WEBAPP_NAME` has the name of the AppService we chose earlier
 * Ensure that `NODE_VERSION` is `12.x`
 * Take note of `AZURE_WEBAPP_PUBLISH_PROFILE` in the comments of that file.
+* Make sure to change the trigger code to the below one:
+```yml
+on:
+  push:
+    branches:
+      - master
+```
 * Go back to our resource in Azure and download the publishing profile by clicking "Get publish profile"
   * Open it in Code
 * Right click on Settings > Open in new tab
